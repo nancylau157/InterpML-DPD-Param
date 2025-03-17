@@ -1,4 +1,8 @@
-Dataset columns:
-x	y	T	cP	aAW	aBW	aAB	R0	K	R_n_avg	R_w_avg	Agg	AggW	CMC
+In this folder there are: 
 
-In the folders Aggregation_Number, CMC, Micelle_Radius you can find the GPR code for Aggregation number, Critical Micellar Concentration and Micelle radius respectively.  
+folders Aggregation_Number, CMC, Micelle_Radius you can find the GPR code for Aggregation number, Critical Micellar Concentration and Micelle radius respectively.  
+
+
+
+
+Contributing authors to code development are: Nunzia Lauriello (Politecnico di Torino) and Deekshit Naidu Ponnana (University of Wisconsin–Madison).

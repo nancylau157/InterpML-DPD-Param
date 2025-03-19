@@ -33,7 +33,7 @@ The GPR folder contains three different folders Aggregation_number; CMC and Mice
 The SHAP folder contains:
 
 *definition.py*
-
+- The script defines the required functions for shapley_values.py.
 ---
 
 *shapley_values.py*

@@ -22,6 +22,10 @@ The workflow follows these steps:
 
 ## Technical information
 
+The GPR folder contains:
+
+The SHAP folder contains:
+
 ### shapley_values.py
 
 **Input**:
@@ -43,4 +47,5 @@ The workflow follows these steps:
 **Key Functionality**:
 - The main purpose of this Python script is to perform grid confinement optimization. It uses the provided Shapley values to guide the optimization process, helping to adjust model parameters based on the significance of each feature as indicated by the Shapley values.
 
+The GRID SEARCH folder contains:
 

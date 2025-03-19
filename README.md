@@ -61,3 +61,11 @@ The GRID SEARCH folder contains:
 
 *Grid_Search.py*
 
+**Input**:
+
+-This script takes the GPR model files `gp1_model.pkl`, `gp2_model.pkl` and `gp3_model.pkl`.
+
+**Key Functionality**:
+
+- The main purpose of this Python script is to perform adaptive grid search, using the parameter range identified through SHAP analysis as the starting point.. 
+

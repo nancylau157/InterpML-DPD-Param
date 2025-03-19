@@ -24,6 +24,12 @@ The workflow follows these steps:
 
 The GPR folder contains three different folders Aggregation_number; CMC and Micelle_Radius. Each of them contain the GPR code and the dataset.
 
+1. Aggregation_number
+   
+2. CMC
+   
+3. Micelle_Radius
+
 The SHAP folder contains:
 
 ### definition.py

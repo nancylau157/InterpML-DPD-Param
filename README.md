@@ -69,6 +69,8 @@ The GRID SEARCH folder contains:
 
 - The main purpose of this Python script is to perform adaptive grid search, using the parameter range identified through SHAP analysis as the starting point.
 
+## Contributing authors
+
 Contributing authors to code development are: Nunzia Lauriello (Politecnico di Torino) and Deekshith Naidu Ponnana (University of Wisconsin-Madison).
 
 

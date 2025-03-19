@@ -1,6 +1,6 @@
 # InterpML-DPD-Param
 
-**Motivations and Application**
+## Motivations and Application
 
 This repository contains the code for the data-driven approach decribed in the work "Interpretable machine-learning enhanced parametrization methodology for Pluronics-Water Mixtures in DPD simulations" for accurately determining model parameters tailored to perform DPD simulations of different Pluronic systems.
 

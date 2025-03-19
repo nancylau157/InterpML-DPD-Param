@@ -24,7 +24,7 @@ The workflow follows these steps:
 
 The GPR folder contains three different folders Aggregation_number; CMC and Micelle_Radius. Each of them contain the GPR code and the dataset.
 
-1. Aggregation_number
+1. Aggregation_number: GPR_AGG.py and DatasetL64_Agg.txt
    
 2. CMC
    

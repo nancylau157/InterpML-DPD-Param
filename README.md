@@ -26,9 +26,9 @@ The GPR folder contains three different folders Aggregation_number; CMC and Mice
 
 1. Aggregation_number: *GPR_AGG.py* and *DatasetL64_Agg.txt*
    
-2. CMC: GPR_CMC.py and DatasetL64_CMC.txt
+2. CMC: *GPR_CMC.py* and *DatasetL64_CMC.txt*
    
-3. Micelle_Radius: GPR_Rg.py and DatasetL64_Rg.txt
+3. Micelle_Radius: *GPR_Rg.py* and *DatasetL64_Rg.txt*
 
 The SHAP folder contains:
 

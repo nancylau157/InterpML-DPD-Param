@@ -22,7 +22,7 @@ The workflow follows these steps:
 
 ## Technical information
 
-The GPR folder contains:
+The GPR folder contains three different folders CMc; Aggregation number; Micelle radius. Each of them contain the GPR code and the dataset.
 
 The SHAP folder contains:
 
